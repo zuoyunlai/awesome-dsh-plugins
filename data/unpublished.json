@@ -6,7 +6,7 @@
   ],
   "checked": "2026-10-26",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 899,
+  "count": 903,
   "packages": [
     {
       "repo": "834063245-creator/HoloGram",
@@ -546,6 +546,12 @@
       "npm": "@khorsheed/dsh-client-message-tools",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "LamplitIsles/kepos-speech",
+      "npm": "@lamplitisles/kepos-speech",
+      "why": "no such package",
+      "since": "2026-10-26"
     },
     {
       "repo": "linshule/dsh-balance",
@@ -5421,6 +5427,27 @@
       "npm": "path-click",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "adj18311/qq-bridge-plus",
+      "path": "plugins/qq-agent-presets",
+      "npm": "qq-agent-presets",
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-10-26"
+    },
+    {
+      "repo": "sanskcz/qq-bridge-custom",
+      "path": "plugins/qq-agent-presets",
+      "npm": "qq-agent-presets",
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-10-26"
+    },
+    {
+      "repo": "Kut1nashi/dsh-qq-onvoice-chat",
+      "path": "plugins/qq-agent-presets",
+      "npm": "qq-agent-presets",
+      "why": "3 listed repos declare this name and the package states no repository",
+      "since": "2026-10-26"
     },
     {
       "repo": "fieldnote-ops/relayloom",
